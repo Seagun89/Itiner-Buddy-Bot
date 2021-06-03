@@ -8,3 +8,5 @@ Key Feature - Scheduling meetings:
 - Connection with SQL Database
 Python Libraries used:
 - discord.py - A python library to interface with Discord’s API.
+To view how our Discord Bot works, check out this URL Link:
+https://www.youtube.com/watch?v=XZ6r1GiLQts&ab_channel=Seanie
